@@ -100,3 +100,10 @@ EcuDiagSim supports these as well, but it only represents a specific facet of th
 Some C# functions can be called from Lua, which I call "Lua Enricher". 
 
 to do write more...
+
+
+### Project Requirements:
+Universal Windows Platform development (can be obtained from the Visual Studio Installer
+MSIX Packaging tools:
+- for VS 2019: https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftSingleProjectMSIXPackagingTools
+- for VS 2021 or newer: https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftSingleProjectMSIXPackagingToolsDev17
